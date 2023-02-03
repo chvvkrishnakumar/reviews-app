@@ -1,0 +1,38 @@
+/* Write your code here */
+.sub1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.main {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(127, 129, 255);
+}
+.sub2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  width: 550px;
+}
+.name {
+  font-weight: bold;
+  color: white;
+}
+h1 {
+  color: white;
+}
+button {
+  background-color: transparent;
+  border: none;
+}
+p {
+  font-size: 20px;
+}
